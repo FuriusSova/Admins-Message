@@ -1,0 +1,16 @@
+{
+  "name": "adminsmessage",
+  "version": "1.0.0",
+  "description": "Soft to send admins' messages",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": " <dsova2004@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "puppeteer": "^21.1.0",
+    "telegraf": "^4.12.2"
+  }
+}
